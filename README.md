@@ -9,6 +9,7 @@
     - https://jasongonidjaja.github.io/ZendragoN/home.html
     - https://jasongonidjaja.github.io/1cak-revision/homepage.html
     - Database Project Report : https://tinyurl.com/5b2xyke6
+    - Software Engineering and Machine Learning Project: https://youtu.be/fXCdGeCq06c
     - Other project is unpublished globally
 <!---
 jasongonidjaja/jasongonidjaja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
