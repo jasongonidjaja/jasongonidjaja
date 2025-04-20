@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science in Binus University
 - 📫 How to reach me:
     - Gmail: jasonamanda1@gmail.com
-    - Instagram: jasonamnd
+    - Instagram: https://www.instagram.com/jasonamnd/
 - ⚡ Fun fact: I like hamburger
 - 🤩 Project you can check:
     - https://jasongonidjaja.github.io/ZendragoN/home.html
